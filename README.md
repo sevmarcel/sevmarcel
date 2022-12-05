@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sevmarcel
-- 👀 I’m interested in love and passion 
-- 🌱 I’m currently learning how to be happy 
-- 💞️ I’m looking to collaborate on the baddest people on the earth
-- 📫 How to reach me I dont even know
+- Crypto enthusiast and node runner
+- 🌱 Strive to learn 
+- 💞️ I’m looking to collaborate with other node runners
+- 📫 
 
 <!---
 sevmarcel/sevmarcel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
